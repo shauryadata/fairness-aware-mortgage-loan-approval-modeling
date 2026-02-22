@@ -125,8 +125,19 @@ This demonstrates the real-world tension between predictive performance and regu
 
 - Final_fixed.ipynb        
 - Final Report.pdf          
-- state_mortgage_data.csv   
+- state_mortgage_data.csv (unable to upload due to size constraint)
 - ReadMe.md                
+
+---
+
+## Dataset
+
+Due to size constraints, the full HMDA dataset is not included in this repository.
+
+The 2024 HMDA Public LAR dataset can be downloaded from:
+https://ffiec.cfpb.gov/data-publication/
+
+After downloading, filter to NJ and GA as shown in the notebook.
 
 ---
 
